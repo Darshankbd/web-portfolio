@@ -4,7 +4,8 @@
 
 Welcome to the official web portfolio of **Darshan K B**, a Final Year Computer Science & Information Science Engineering Student at Sri Krishna Institute of Technology (Visvesvaraya Technological University - VTU), Bangalore.
 
-🌐 **Live Demo**: [https://Darshankbd.github.io/web-portfolio/](https://Darshankbd.github.io/web-portfolio/)  
+⚡ **Live Vercel Deployment**: [https://web-portfolio-38xous5rj-darshankbds-projects.vercel.app/](https://web-portfolio-38xous5rj-darshankbds-projects.vercel.app/)  
+🌐 **GitHub Pages Mirror**: [https://Darshankbd.github.io/web-portfolio/](https://Darshankbd.github.io/web-portfolio/)  
 💻 **GitHub Repository**: [https://github.com/Darshankbd/web-portfolio](https://github.com/Darshankbd/web-portfolio)
 
 ---
@@ -59,12 +60,18 @@ web-portfolio/
 
 ---
 
+## ⚡ Live Vercel App
+
+- **Primary Production Deployment**: [https://web-portfolio-38xous5rj-darshankbds-projects.vercel.app/](https://web-portfolio-38xous5rj-darshankbds-projects.vercel.app/)
+
+---
+
 ## 💻 Tech Stack & Dependencies
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla ES6+)
 - **Typography**: Space Grotesk, Plus Jakarta Sans
 - **Iconography**: Font Awesome 6
-- **Hosting**: GitHub Pages / Vercel
+- **Hosting & Deployment**: Vercel & GitHub Pages
 
 ---
 
